@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  header {
+    background-image: url('header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #2c3e50;
+  }
+  h2, h3 {
+    color: #007bff;
+  }
+  .experience-item h4 {
+    margin-top: 1rem;
+  }

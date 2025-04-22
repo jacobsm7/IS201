@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+  }
+  nav a {
+    margin-right: 15px;
+    color: #333;
+    text-decoration: none;
+  }
+  .image-container {
+    margin: 20px 0;
+    text-align: center;
+  }
+  .video-container {
+    max-width: 100%;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+  .tableau-container {
+    text-align: center;
+    margin: 20px 0;
+  }
